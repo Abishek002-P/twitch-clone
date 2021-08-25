@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    color: white;
+}
+
+
+.app__main {
+    display: flex;
+}
