@@ -19,14 +19,13 @@ const Stream = () => {
                 </div>
                 <div className='stream__videoEmbed'>
                 <iframe 
-                width="900" 
-                height="395" 
-                src="https://www.youtube.com/embed/IAFHWnNyaxQ" 
+                width="1280" 
+                height="500" 
+                src="https://www.youtube.com/embed/vxfIy59wSRU" 
                 title="YouTube video player" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen>
-                    
                 </iframe>
                     
                 
